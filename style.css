@@ -1,0 +1,21 @@
+.search{
+    border: 10px solid gray;
+    height: 21px;
+    width: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.img{
+    height: 21px;
+    background-color: rgb(105, 102, 102); 
+    padding-top: 4px;
+  
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
